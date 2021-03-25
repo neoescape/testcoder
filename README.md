@@ -7,7 +7,7 @@
 <img src="prople.jpg" width="250" height="250"/>
 
 >## 최준호
->요리하는 프로그래머 송동민 입니다  111111231312qweewe
+>요리하는 프로그래머 송동민 입니다  131312
 >
 ><img src="email.png"> : wnsghqwe@gmail.com
 
